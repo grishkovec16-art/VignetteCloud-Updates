@@ -1,13 +1,62 @@
 {
-  "manifest_version": "1.0",
-  "release_date": "2026-03-01",
-  "applications": {
-    "SpreadConstructor": {
-      "name": "SpreadConstructor",
-      "version": "2.0.0",
-      "yadisk_url": "https://disk.yandex.ru/d/Rni3cKAnraeRKg",
-      "size_mb": 350,
-      "changelog": "- Улучшен интерфейс\n- Исправлены ошибки экспорта\n- Добавлены новые шаблоны"
+    "manifest_version": "1.0",
+    "release_date": "2025-06-01",
+
+    "applications": {
+        "FaceSorter": {
+            "name": "Сортировка по лицам",
+            "version": "2.0.0",
+            "yadisk_url": "",
+            "changelog": "Полный редизайн v2.0: два режима работы, кластеризация, маркировка фото"
+        },
+        "VignetteCropper": {
+            "name": "Автокадрирование (AI)",
+            "version": "1.0.0",
+            "yadisk_url": "",
+            "changelog": ""
+        },
+        "AcneRemover": {
+            "name": "Удаление прыщей (Бета)",
+            "version": "1.0.0",
+            "yadisk_url": "",
+            "changelog": "Загрузка из Photoshop, YOLO сегментация, Poisson Blending"
+        },
+        "SpreadConstructor": {
+            "name": "Конструктор виньеток PRO",
+            "version": "2.0.0",
+            "yadisk_url": "",
+            "changelog": ""
+        },
+        "VignetteNamer": {
+            "name": "Редактор виньеток",
+            "version": "2.0.0",
+            "yadisk_url": "",
+            "changelog": ""
+        },
+        "VignetteFiller": {
+            "name": "Заполнить обложки",
+            "version": "1.0.0",
+            "yadisk_url": "",
+            "changelog": ""
+        },
+        "SpreadLayout": {
+            "name": "Сюжетный разворот",
+            "version": "1.0.0",
+            "yadisk_url": "",
+            "changelog": ""
+        },
+        "IndividualFiller": {
+            "name": "Инд. разворот",
+            "version": "1.0.0",
+            "yadisk_url": "",
+            "changelog": ""
+        }
+    },
+
+    "core": {
+        "name": "VignetteCore",
+        "version": "3.2.0",
+        "yadisk_url": "",
+        "changelog": "3 колонки, обновлённые приложения, система обновлений"
     }
-  }
 }
