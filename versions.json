@@ -4,7 +4,7 @@
   "applications": {
     "SpreadConstructor": {
       "name": "SpreadConstructor",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "yadisk_url": "https://disk.yandex.ru/d/T3-NMpBeFiXbOA",
       "size_mb": 350,
       "changelog": "- Улучшен интерфейс\n- Исправлены ошибки экспорта\n- Добавлены новые шаблоны"
